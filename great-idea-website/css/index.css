@@ -146,6 +146,10 @@ nav p img {
 	text-align:center;
 }
 
+#header-section div  h1 {
+	height:210px;
+}
+
 #header-section > div > p {
 	width:150px;
 	margin:0 auto;
